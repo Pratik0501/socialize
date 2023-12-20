@@ -1,3 +1,5 @@
+# This is a Social Media App Front End, build using React Js and CSS. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
